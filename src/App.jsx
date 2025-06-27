@@ -4,7 +4,7 @@ import Shop from './pages/shop/Shop';
 import Cart from './pages/cart/Cart';
 import Layout from './pages/Layout';
 import Shopcontext from './context/Shopcontext';
-import DetailPage from './pages/detailPage';
+import DetailPage from './pages/DetailPage';
 
 const router = createBrowserRouter([
   {
